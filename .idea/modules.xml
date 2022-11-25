@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mvc/MVC2022_11_25/MVC2022_11_25.iml" filepath="$PROJECT_DIR$/mvc/MVC2022_11_25/MVC2022_11_25.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc/java_mvc/java_mvc.iml" filepath="$PROJECT_DIR$/mvc/java_mvc/java_mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaee.iml" filepath="$PROJECT_DIR$/.idea/javaee.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
     </modules>

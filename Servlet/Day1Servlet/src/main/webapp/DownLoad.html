@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!- 超链接浏览器能识别就显示，不能识别就下载
+download属性
+在超链接里加入download就直接下载不加载内容
+download加值设置文件的文件名
+->
+
+<!-  浏览器能识别- >
+<a href="Download/面试词.txt">文本文件</a>
+<a href="Download/未标题-1.jpg">图片文件</a>
+<!-  浏览器不能识别- >
+<a href="Download/完整项目文件.rar">压缩文件</a>
+
+<!-  浏览器能识别- >
+<a href="Download/面试词.txt" download>文本文件</a>
+<a href="Download/未标题-1.jpg" download="图片.jpg">图片文件</a>
+<!-  浏览器不能识别- >
+<a href="Download/完整项目文件.rar">压缩文件</a>
+<form action="serdown" >
+    <input type="text" name="filename" placeholder="请输入要下载的文件名">
+    <button>下载</button>
+</form>
+
+
+</body>
+</html>

@@ -6,13 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="day2022_11_25" />
         <module name="MVC" />
-      </profile>
-      <profile name="Annotation profile for java_mvc" enabled="true">
-        <sourceOutputDir name="../../java_mvc/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../java_mvc/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="java_mvc" />
+        <module name="MVC2022_11_25" />
+        <module name="mybatis2022_11_25" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +18,7 @@
       <module name="day2022_11_23" target="1.8" />
       <module name="day2022_11_24" target="1.8" />
       <module name="Day2Servlet" target="1.8" />
+      <module name="java_mvc" target="1.8" />
       <module name="JDBC_01" target="1.8" />
       <module name="JDBC_01 (1)" target="1.8" />
       <module name="JDBC_01 (2)" target="1.8" />

@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mvc/MVC2022_11_25/MVC2022_11_25.iml" filepath="$PROJECT_DIR$/mvc/MVC2022_11_25/MVC2022_11_25.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaee.iml" filepath="$PROJECT_DIR$/.idea/javaee.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/MVC2022_11_25/MVC2022_11_25.iml" filepath="$PROJECT_DIR$/MVC/MVC2022_11_25/MVC2022_11_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis/Mybatis.iml" filepath="$PROJECT_DIR$/Mybatis/Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/java_mvc/java_mvc.iml" filepath="$PROJECT_DIR$/MVC/java_mvc/java_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaee.iml" filepath="$PROJECT_DIR$/javaee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/mvc.iml" filepath="$PROJECT_DIR$/MVC/mvc.iml" />
     </modules>
   </component>
 </project>
